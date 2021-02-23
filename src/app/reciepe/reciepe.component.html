@@ -1,0 +1,73 @@
+
+
+<div class="container recipe">
+    <h2>Recipes</h2>
+
+<div id="myModal" class="modal fade" role="dialog" *ngIf="recipeData">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title" *ngIf="recipeData.heading"><strong>{{recipeData.heading}}</strong></h4>
+            </div>
+            <div class="modal-body">
+                <img src="../../assets/images/recipe/{{recipeData.imgUrl}}" [alt]="recipeData.imgAlt" class="img-responsive" *ngIf="!popImg" />
+                <img src="../../assets/images/recipe/{{popImg}}" [alt]="popAlt" class="img-responsive" *ngIf="popImg" />
+                <div class="pop-img-wrapper">
+                    <div class="row">
+                        <div class="col-lg-2 col-md-2 col-sm-2 col-xs-3" *ngFor="let item of recipeData.popImgAlt">
+                            <img src="../../assets/images/recipe/{{item.url}}" [alt]="item.alt" class="img-responsive img-thumbnail" (click)="changePopImgAlt(item)" />
+                        </div>
+                    </div>
+                </div>
+                
+
+                <div class="m-t-30" *ngIf="recipeData.ingredient">
+                    <h4>Ingredients</h4>
+                    <ul>
+                        <li *ngFor="let item of recipeData.ingredient">
+                            {{item}}
+                        </li>
+                    </ul>
+               </div>
+
+               <div class="m-t-30" *ngIf="recipeData.garnishing">
+                <h4>For Garnishing</h4>
+                <ul>
+                    <li *ngFor="let item of recipeData.garnishing">{{item}}</li>
+                </ul>
+            </div>
+
+               <div class="m-t-30" *ngIf="recipeData.method">
+                   <h4>Method</h4>
+                   <ul>
+                       <li *ngFor="let item of recipeData.method">{{item}}</li>
+                   </ul>
+               </div>
+
+               <div class="m-t-30" *ngIf="recipeData.dip">
+                <h4>Dip</h4>
+                <ul>
+                    <li *ngFor="let item of recipeData.dip">{{item}}</li>
+                </ul>
+            </div>
+
+               
+
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="row">
+        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12" *ngFor="let item of recipeList">
+            <div class="box">
+                <img src="../../assets/images/recipe/{{item.imgUrl}}" alt="recipe" class="img-responsive" (click)="getRecipe(item)" data-toggle="modal" data-target="#myModal" />
+                <p class="text-center list-name">{{item.heading}}</p>
+            </div>
+        </div>
+    </div>
+</div>

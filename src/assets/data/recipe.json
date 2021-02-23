@@ -1,0 +1,636 @@
+[
+    {
+        "id": 1,
+        "heading": "Schezwan Potato Coins",
+        "imgUrl": "recipe-1.jpg",
+        "imgAlt": "Schezwan Potato Coins",
+        "popImgAlt": [
+            {
+                "id": 101,
+                "url": "recipe-1-1.jpg",
+                "alt": "Schezwan Potato Coins"
+            },
+            {
+                "id": 102,
+                "url": "recipe-1-2.jpg",
+                "alt": "Schezwan Potato Coins"
+            },
+            {
+                "id": 103,
+                "url": "recipe-1-3.jpg",
+                "alt": "Schezwan Potato Coins"
+            },
+            {
+                "id": 104,
+                "url": "recipe-1-4.jpg",
+                "alt": "Schezwan Potato Coins"
+            },
+            {
+                "id": 105,
+                "url": "recipe-1-5.jpg",
+                "alt": "Schezwan Potato Coins"
+            },
+            {
+                "id": 106,
+                "url": "recipe-1-6.jpg",
+                "alt": "Schezwan Potato Coins"
+            },
+            {
+                "id": 107,
+                "url": "recipe-1-7.jpg",
+                "alt": "Schezwan Potato Coins"
+            },
+            {
+                "id": 108,
+                "url": "recipe-1-8.jpg",
+                "alt": "Schezwan Potato Coins"
+            }
+        ],
+        "ingredient": [
+            "1/2 cup besan/ gram flour",
+            "1/4 cup maida/ all purpose flour",
+            "2 tablespoon cornflour",
+            "2 tablespoon cornflour",
+            "3-4 tbsp schezwan chutney or schezwan sauce",
+            "1 tsp ginger, finely chopped",
+            "1 green chili, finely chopped",
+            "1/2 cup spinach, chopped",
+            "1/2 tablespoon pepper powder",
+            "Salt to taste",
+            "Water as needed",
+            "Oil for shallow frying"
+        ],
+        "garnishing": null,
+        "topping": null,
+        "method":[
+            "Take one bowl..add besan, maida, corn flour, spinach, green chili, ginger, schezwan chutney, salt and pepper. Add water and make thick batter.",
+            "Boil and slice 2 potatoes.",
+            "Put the potato slices in the batter. Coat them nice and evenly.",
+            "Heat non-stick pan. Pour 2 tablespoon of oil in it. Place coated potato slices on the non-stick pan. Cook for 30 sec on one side. Flip another side and cook till the golden brown. .pour 1 teaspoon of oil if needed.",
+            "for a dip ..Mix tomato sauce and schezwan chutney in one bowl.",
+            "Serve hot with dip."
+        ],
+        "dip": [
+            "2 tablespoon tomato sauce",
+            "1 tablespoon schezwan chutney"
+        ]
+    },
+    {
+        "id": 2,
+        "heading": "Tomcorn Pasta Soup",
+        "imgUrl": "recipe-2.jpg",
+        "imgAlt": "Tomcorn Pasta Soup",
+        "popImgAlt": [ ],
+        "ingredient": [
+            "½ cup boiled elbow pasta (macroni)",
+            "½ cup boiled sweet corn",
+            "Boiled Tomato puree ( 6 tomatoes blanched, peeled and pureed)",
+            "Oregano 1 tsp",
+            "Chili flakes 1 tsp",
+            "Pepper er powder 1 tsp",
+            "Salt to taste",
+            "1 tsp aji no motto",
+            "Oil 2 tbsp",
+            "Finely chopped garlic 1 tbsp",
+            "1 medium sized finely chopped onion",
+            "¼ cup finely spring onion",
+            "1 tbsp sugar",
+            "3 to 4 tbsp corn flour slurry ( 1 tbsp corn flour mix with 3 tbsp water)",
+            "1 cup water"
+        ],
+        "garnishing": [
+            "Coriander leaf",
+            "Garlic toast"
+        ],
+        "topping": null,
+        "method":[
+            "Heat a saucepan or a kadai. Add oil and garlic. Saute it for a while. Add chopped onion. Saute it for 2 min. Add aaji no motto, boiled corn, tomato puree and ½ cup of water. Mix them properly. Add oregano, chili flakes, salt and paper powder. Stir continuously. Cook on low flame for 3-4 minutes.",
+            "Now, add sugar, boiled pasta, spring onion and corn flour slurry. Now stir continuously. Add water and check the consistency. Simmer for 5 minutes on low flame.",
+            "Serve hot with coriander and garlic toast."
+        ],
+        "dip": null
+    },
+    {
+        "id": 3,
+        "heading": "Dhaba Style Chur Chur Naan",
+        "imgUrl": "recipe-3.jpg",
+        "imgAlt": "Dhaba Style Chur Chur Naan",
+        "popImgAlt": [ ],
+        "ingredient": [
+            "2 cup all purpose flour/ maida",
+            "1/2 teaspoon baking soda",
+            "1 teaspoon sugar",
+            "Salt to taste",
+            "1/4 cup curd",
+            "1/2 cup pure ghee or as needed",
+            "200 gm paneer,grated (cottage cheese)",
+            "1/2 cup boiled and mashed potatoes",
+            "1/2 cup coriander leaves, chopped",
+            "1 tablespoon Aamchur(dry mango powder)",
+            "1 tbsp jeera (cumin seeds)",
+            "1 tablespoon red chilli powder",
+            "1 tablespoon Ajwain (carom seeds)",
+            "1/2 teaspoon green chillies, chopped",
+            "Salt to taste",
+            "1 cup mint leaves, chopped",
+            "Butter for serving"
+        ],
+        "garnishing": null,
+        "topping": null,
+        "method": null,
+        "dip": null
+    },
+    {
+        "id": 4,
+        "heading": "Moongdal Ki Pakodi/Dal Ke",
+        "imgUrl": "recipe-4.jpg",
+        "imgAlt": "Moongdal Ki Pakodi/Dal Ke",
+        "popImgAlt": [ 
+            {
+                "id": 401,
+                "url": "recipe-4-1.jpg",
+                "alt": "Moongdal Ki Pakodi/Dal Ke"
+            },
+            {
+                "id": 402,
+                "url": "recipe-4-2.jpg",
+                "alt": "Moongdal Ki Pakodi/Dal Ke"
+            }
+        ],
+        "ingredient": [
+            "1 Cup yellow moongdal, split moongdal",
+            "1/2 cup spring onions greens, chopped",
+            "1/4 cup methi leaves, chopped",
+            "1/2 cup palak leaves, chopped",
+            "Salt to taste",
+            "1 small piece of ginger",
+            "2-3 spicy green chilies",
+            "5-6 curry leaves, chopped",
+            "1 tsp Hing",
+            "1 tsp jeera",
+            "Oil for frying",
+            "Green chutney for serving"
+        ],
+        "garnishing": null,
+        "topping": null,
+        "method": [
+            "wash the moongdal with the water, twice. Soak the moongdal for 1 hour.",
+            "drain the moongdal.",
+            "take grinder jar. Add drained dal, ginger, spicy green chillies, salt and hing. Add 3-4 tbsp water. Grind to a smooth paste… Don’t add much water..",
+            "we want dropping consistency batter, not runny. So take care while adding water.",
+            "Transfer this to a mixing bowl. Add chopped palak, methi, curry leaves and jeera. Mix them really well.",
+            "mix well with your hand. Check salt and add more, if needed.",
+            "Heat oil in a kadai. When it is a hot, drop a small pakodi to the oil. It will sink and rise..it means your oil is ready.",
+            "Drop small bite sized pakodi of the mixture to the hot oil.",
+            "fry them till golden and crisp in medium flame.",
+            "enjoy hot with green chutney."
+        ],
+        "dip": null
+    },
+    {
+        "id": 5,
+        "heading": "Easy Whole Wheat Dry Fruit Cake",
+        "imgUrl": "recipe-5.jpg",
+        "imgAlt": "Easy Whole Wheat Dry Fruit Cake / Kadai Cake / No Butter No Sugar No Maida Cake",
+        "popImgAlt": [ 
+            {
+                "id": 501,
+                "url": "recipe-5-1.jpg",
+                "alt": "Easy Whole Wheat Dry Fruit Cake / Kadai Cake / No Butter No Sugar No Maida Cake"
+            },
+            {
+                "id": 502,
+                "url": "recipe-5-2.jpg",
+                "alt": "Easy Whole Wheat Dry Fruit Cake / Kadai Cake / No Butter No Sugar No Maida Cake"
+            },
+            {
+                "id": 503,
+                "url": "recipe-5-3.jpg",
+                "alt": "Easy Whole Wheat Dry Fruit Cake / Kadai Cake / No Butter No Sugar No Maida Cake"
+            },
+            {
+                "id": 504,
+                "url": "recipe-5-4.jpg",
+                "alt": "Easy Whole Wheat Dry Fruit Cake / Kadai Cake / No Butter No Sugar No Maida Cake"
+            },
+            {
+                "id": 505,
+                "url": "recipe-5-5.jpg",
+                "alt": "Easy Whole Wheat Dry Fruit Cake / Kadai Cake / No Butter No Sugar No Maida Cake"
+            },
+            {
+                "id": 506,
+                "url": "recipe-5-6.jpg",
+                "alt": "Easy Whole Wheat Dry Fruit Cake / Kadai Cake / No Butter No Sugar No Maida Cake"
+            },
+            {
+                "id": 507,
+                "url": "recipe-5-7.jpg",
+                "alt": "Easy Whole Wheat Dry Fruit Cake / Kadai Cake / No Butter No Sugar No Maida Cake"
+            },
+            {
+                "id": 508,
+                "url": "recipe-5-8.jpg",
+                "alt": "Easy Whole Wheat Dry Fruit Cake / Kadai Cake / No Butter No Sugar No Maida Cake"
+            },
+            {
+                "id": 509,
+                "url": "recipe-5-9.jpg",
+                "alt": "Easy Whole Wheat Dry Fruit Cake / Kadai Cake / No Butter No Sugar No Maida Cake"
+            },
+            {
+                "id": 510,
+                "url": "recipe-5-10.jpg",
+                "alt": "Easy Whole Wheat Dry Fruit Cake / Kadai Cake / No Butter No Sugar No Maida Cake"
+            },
+            {
+                "id": 511,
+                "url": "recipe-5-11.jpg",
+                "alt": "Easy Whole Wheat Dry Fruit Cake / Kadai Cake / No Butter No Sugar No Maida Cake"
+            },
+            {
+                "id": 512,
+                "url": "recipe-5-12.jpg",
+                "alt": "Easy Whole Wheat Dry Fruit Cake / Kadai Cake / No Butter No Sugar No Maida Cake"
+            },
+            {
+                "id": 513,
+                "url": "recipe-5-13.jpg",
+                "alt": "Easy Whole Wheat Dry Fruit Cake / Kadai Cake / No Butter No Sugar No Maida Cake"
+            }
+        ],
+        "ingredient": [
+            "1.5 cup whole wheat flour (Atta)",
+            "1 teaspoon baking powder",
+            "1/2 teaspoon baking soda",
+            "Pinch of salt",
+            "4-5 drops vanilla essence",
+            "3/4 cup Jaggery powder",
+            "1/2 cup oil (Flavor less)",
+            "1 cup milk",
+            "1 cup mixed dryfruits and nuts, chopped (dry apricots,almond, cashews,walnuts,dry plums,green raisins, pistachios etc)",
+            "2-3 tablespoon water if needed"
+        ],
+        "garnishing": null,
+        "topping": ["1/2 cup mixed dry fruits and nuts, chopped"],
+        "method": [
+            "Take one bowl. Seive flour,baking soda and baking powder. keep aside. (Dry ingredients)",
+            "take another bowl. Whisk oil, Jaggery,milk , vanilla essence and salt together. Whisk well till Jaggery dilutes. ( Wet ingredients)",
+            "grease cake tin with few drops of oil. Dust with the flour.. gently tap and Remove axcess flour.",
+            "Pour wet ingredients into the dry ingredients. Mix well.",
+            "Add dry fruits and nuts. Mix well. Add 3 tablespoon of water if needed. Consistency should be dropping.",
+            "preheat kadai at slow flame for 10 min. Keep steel stand or steel ring in the kadai. Put your cake tin on it. Bake in preheated kadai for 40- 45 min. At slow to medium flame. Cover with the lid.",
+            "OR bake in preheated oven on 180 C for 30 -40 min.",
+            "After 40 – 45 min.check with the toothpick, if it’s comes out clean, your cake is ready…if not, bake for another 5 -10 min.",
+            "Remove from the kadai and rest it for 30 min.",
+            "After 30 min. Gently turn the tin and remove the cake.",
+            "Enjoy."
+        ],
+        "dip": null
+    },
+    {
+        "id": 6,
+        "heading": "Easy Oreo Kulfie",
+        "imgUrl": "recipe-6.jpg",
+        "imgAlt": "Easy Oreo Kulfie",
+        "popImgAlt": [ 
+            {
+                "id": 601,
+                "url": "recipe-6-1.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 602,
+                "url": "recipe-6-2.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 603,
+                "url": "recipe-6-3.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 604,
+                "url": "recipe-6-4.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 605,
+                "url": "recipe-6-5.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 606,
+                "url": "recipe-6-6.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 607,
+                "url": "recipe-6-7.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 608,
+                "url": "recipe-6-8.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 609,
+                "url": "recipe-6-9.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 610,
+                "url": "recipe-6-10.jpg",
+                "alt": "Easy Oreo Kulfie"
+            }
+        ],
+        "ingredient": [
+            "500 ml full cream milk",
+            "5 Oreo cookies",
+            "1 tablespoon rice flour",
+            "1/4 cup milk",
+            "2 tablespoon sugar"
+        ],
+        "garnishing": null,
+        "topping": null,
+        "method": [
+            "heat full cream milk in a deep non-stick pan.",
+            "let it boil. After one boil, simmer at a slow flame for 15-20 min….stir continuously..",
+            "After 15-20 min…you can see the quantity of the milk became almost half.",
+            "Mix 1 tablespoon of rice flour in 1/4 cup of milk. Mix properly.",
+            "Add this mixture gradually into the boiled milk. ..stir continuously..",
+            "Add sugar..mix well for 1 min",
+            "Remove from the flame.",
+            "keep aside for 1 hour.",
+            "Coarsely Grind 5 Oreo cookies…add into the kulfi’mixture.",
+            "pour the mixture into kulfi moulds..if you don’t have kulfi moulds, you can use any plastic container to set the kulfi..",
+            "set for 10-12 hours in refrigerator (Freezer section).",
+            "enjoy."
+        ],
+        "dip": null
+    },
+    {
+        "id": 7,
+        "heading": "Iranian Rice Cookies",
+        "imgUrl": "recipe-7.jpg",
+        "imgAlt": "Iranian Rice Cookies",
+        "popImgAlt": [ 
+            {
+                "id": 701,
+                "url": "recipe-7-1.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 702,
+                "url": "recipe-7-2.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 703,
+                "url": "recipe-7-3.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 704,
+                "url": "recipe-7-4.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 705,
+                "url": "recipe-7-5.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 706,
+                "url": "recipe-7-6.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 707,
+                "url": "recipe-7-7.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 708,
+                "url": "recipe-7-8.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 709,
+                "url": "recipe-7-9.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 710,
+                "url": "recipe-7-10.jpg",
+                "alt": "Easy Oreo Kulfie"
+            }
+        ],
+        "ingredient": [
+            "cup rice flour",
+            "1/4 teaspoon baking powder",
+            "1/2 cup butter ( in room temperature)",
+            "1/4 cup powdered sugar",
+            "1 tbsp rose water or 2-3 drops rose essance",
+            "2 tablespoon sesame seeds for sprinkle on top of the cookies",
+            "2 tablespoon rose syrup for decoration ( optional)"
+        ],
+        "garnishing": null,
+        "topping": null,
+        "method": [
+            "Take one bowl. Mix Rice flour and baking powder… keep aside.",
+            "Take another bowl. Mix butter and sugar. Whisk until creamy.",
+            "add rose water and mix well. Then add flour and gently Knead a dough. If it is too crumbly, add few drops of milk. My dough consistency was right, so I didn’t use Milk.",
+            "Roll out into equal sized balls and press gently with your palm. Using fork,make criss cross patterns on the cookies, sprinkle sesame seeds..",
+            "Bake in a preheated oven at 170′ C for 10 to 12 min. till the side turn golden brown.",
+            "Remove from the oven and let the cookies rest in the tray for a 10 minutes.",
+            "Gently transfer the cookies to a wire rack to cool….",
+            "Cookies are made from rice flour. They are gluten free..so, it’s very delicate to handle.",
+            "Make sure cookies are completely cool…then after you can store them in air tight container..",
+            "Decorate the cookies with rose syrup..it’s optional."
+        ],
+        "dip": null
+    },
+    {
+        "id": 8,
+        "heading": "Minty Whole Wheat Namakpara",
+        "imgUrl": "recipe-8.jpg",
+        "imgAlt": "Minty Whole Wheat Namakpara",
+        "popImgAlt": [ 
+            {
+                "id": 801,
+                "url": "recipe-8-1.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 802,
+                "url": "recipe-8-2.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 803,
+                "url": "recipe-8-3.jpg",
+                "alt": "Easy Oreo Kulfie"
+            },
+            {
+                "id": 804,
+                "url": "recipe-8-4.jpg",
+                "alt": "Easy Oreo Kulfie"
+            }
+        ],
+        "ingredient": [
+            "2 cup whole wheat flour",
+            "1/2 cup sooji/ semolina",
+            "1 cup mint leaves, finely chopped",
+            "1/4 cup hot pure ghee",
+            "Salt to taste",
+            "1 tsp jeera",
+            "1 tsp carrom seeds (Ajwain)",
+            "1/4 teaspoon Turmeric powder",
+            "1 tsp red chilli powder",
+            "1 tbsp oil",
+            "Oil for deep frying"
+        ],
+        "garnishing": null,
+        "topping": null,
+        "method": [
+            "Take one mixing bowl. Combine flour, sooji, mint leaves, salt, red chilli flakes, Turmeric powder, jeera, Ajwain and hot ghee and start mixing with fingers to crumble them well.",
+            "Gradually, add water and start kneading the dough. The dough should be like poori dough. Do not add too much at a time as we need firm dough..it should be soft.",
+            "Cover and rest the dough for 30 min.",
+            "Heat oil in a deep kadai.",
+            "Once the dough is ready, divide into equal balls. Take one ball and roll out into a circle with thickness of 4-5 m.m.",
+            "Cut the rolled circle into diamond shapes with the help of a knife.",
+            "Fry all the diamonds till golden brown and crispy at medium low flame.",
+            "Don’t over fry them or don’t fry them on very high flame heat as it will burn.",
+            "drain the namakpara onto absorbent paper. Repeat the same process with rest of the balls.",
+            "cool them completely. store them in a clean and airtight container.",
+            "serve with coffee or tea."
+        ],
+        "dip": null
+    },
+    {
+        "id": 9,
+        "heading": "Instant Whole Wheat Mug Brownie",
+        "imgUrl": "recipe-9.jpg",
+        "imgAlt": "Instant Whole Wheat Mug Brownie",
+        "popImgAlt": null,
+        "ingredient": [
+            "2 tablespoon brown sugar",
+            "4 tablespoon milk",
+            "3 tablespoon whole wheat flour",
+            "1 tablespoon cocoa powder",
+            "1/4 teaspoon of baking powder",
+            "1 tablespoon oil ( flavorless)",
+            "3-4 drops vanilla essance",
+            "Pinch of salt"
+        ],
+        "garnishing": [
+            "Strawberry",
+            "Chocolate chip"
+        ],
+        "topping": null,
+        "method": [
+            "Take one small microwave safe mug. ( If you have a big mug then, double the ingredients)",
+            "Add brown sugar and Milk. Mix well until sugar dissolves. I used brown sugar because it gives my brownie a chewy texture. ( You can use White sugar or Jaggery prowder also in a same proportion)",
+            "Add oil, whole wheat flour, Cocoa powder, baking powder, pinch of salt and vanilla essance.",
+            "Mix well until smooth. Batter should be at runny consistency. Add more Milk if needed.",
+            "Microwave for 1 min. I have 1200w microwave,so my brownie was ready in 1 min..but if you have microwave is less than 1200w ,it may take time to 1.5 -2 min. to cook the brownie.",
+            "Garnish your brownie with anything. You can garnish with whip cream or vanilla ice cream. You can add some chocolate chips and walnuts also…",
+            "serve hot."
+        ],
+        "dip": null
+    },
+    {
+        "id": 10,
+        "heading": "Veggie Stuffed Buns",
+        "imgUrl": "recipe-10.jpg",
+        "imgAlt": "Veggie Stuffed Buns",
+        "popImgAlt": [
+            {
+                "id": 101,
+                "url": "recipe-10-1.jpg",
+                "alt": "Veggie Stuffed Buns"
+            },
+            {
+                "id": 102,
+                "url": "recipe-10-2.jpg",
+                "alt": "Veggie Stuffed Buns"
+            },
+            {
+                "id": 103,
+                "url": "recipe-10-3.jpg",
+                "alt": "Veggie Stuffed Buns"
+            },
+            {
+                "id": 104,
+                "url": "recipe-10-4.jpg",
+                "alt": "Veggie Stuffed Buns"
+            },
+            {
+                "id": 105,
+                "url": "recipe-10-5.jpg",
+                "alt": "Veggie Stuffed Buns"
+            },
+            {
+                "id": 106,
+                "url": "recipe-10-6.jpg",
+                "alt": "Veggie Stuffed Buns"
+            },
+            {
+                "id": 107,
+                "url": "recipe-10-7.jpg",
+                "alt": "Veggie Stuffed Buns"
+            },
+            {
+                "id": 108,
+                "url": "recipe-10-8.jpg",
+                "alt": "Veggie Stuffed Buns"
+            },
+            {
+                "id": 109,
+                "url": "recipe-10-9.jpg",
+                "alt": "Veggie Stuffed Buns"
+            },
+            {
+                "id": 1010,
+                "url": "recipe-10-10.jpg",
+                "alt": "Veggie Stuffed Buns"
+            }
+        ],
+        "ingredient": [
+            "8-10 scooped buns",
+            "2 tbsp oil",
+            "1 cup Onions, finely chopped",
+            "1 cup broccoli, finely chopped",
+            "3/4 cup cucumber, finely chopped",
+            "1 cup capsicum, finely chopped",
+            "3/4 cup carrot, finely chopped",
+            "Salt to taste",
+            "1 tsp Pepper powder",
+            "1 tbsp oregano",
+            "1 tsp red chilli powder",
+            "3 to 4 Cheese slices",
+            "Butter",
+            "1/2 cup mayonnaise",
+            "1/4 cup tomato ketchup"
+        ],
+        "garnishing": null,
+        "topping": null,
+        "method": [
+            "Take buns and hollow out the center. Keep aside.",
+            "Heat oil in a pan. Add onions and broccoli. Saute them for 1 min.",
+            "Add rest of the veggies. Saute well for 2-3 min.",
+            "Add salt, Chili powder, oregano and pepper powder. Mix well. Remove from the flame.",
+            "Add mayonnaise and tomato ketchup..mix well..",
+            "Take one cheese slice and cut it into 4 parts.( Now we have 4 small cheese slices)",
+            "Take one scooped bun.. put 2 tablespoon of the mixture in the middle of the bun.. put cut cheese slice over it. Sprinkle some chili flakes and oregano. Stuff all the buns.",
+            "Spread 1/4 tsp of butter on each whole stuffed bun.",
+            "Take greased Baking tray, place all the buns and bake them for 180′ C for 5 min.",
+            "On a slow flame, Roast the buns on the non-stick tava with butter.",
+            "Serve hot or warm …"
+        ],
+        "dip": null
+    }
+]
+

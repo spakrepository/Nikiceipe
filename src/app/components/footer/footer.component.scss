@@ -1,0 +1,111 @@
+
+.footer {
+    background-color: #292224;
+    width: 100%;
+    
+    p, a {
+        color: #fff;
+        display: inline-block;
+        margin-bottom: 0;
+        padding: 20px 15px;
+        letter-spacing: 1px;
+        text-decoration: none;
+    }
+}
+
+
+
+
+footer{
+    background-color: rgba(41, 34, 36, 0.9);
+    padding:70px 0px;
+    margin-top: 30px;
+}	       
+
+footer ul li{
+   padding:5px 0px;
+}
+
+.adress span , .contact span , .social span, .my-address span{
+  color: #FFF; 
+  font-weight: 600; 
+  padding-bottom: 10px; 
+  margin-bottom: 20px;
+  display: block;
+  text-transform: uppercase;
+  font-size: 20px;
+  letter-spacing: 3px;
+}
+
+.adress li p , .contact li a , .social li a , .my-address li p{
+   color:#FFF;
+   letter-spacing: 2px;
+   text-decoration:none;
+   font-size:15px;
+   margin-bottom: 0;
+   //color: rgba(209, 175, 137, 0.5);
+   transition: all 0.5s ease-in-out;
+   -o-transition: all 0.5s ease-in-out;
+   -moz-transition: all 0.5s ease-in-out;
+   -ms-transition: all 0.5s ease-in-out;
+   -webkit-transition: all 0.5s ease-in-out;
+}
+
+.my-address li a {
+    letter-spacing: 2px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #fff;
+}
+
+.contact li a {
+    cursor: pointer;
+    margin-bottom: 5px;
+    display: inline-block;
+    transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -webkit-transition: all 0.5s ease-in-out;
+
+    &:hover {
+        color: rgba(209, 175, 137, 1);
+    }
+}
+
+.adress li p {
+    color: #fff;
+}
+
+.social li {
+   float:left;
+    margin-right: 15px;
+   svg {
+       width: 30px;
+       height: 30px;
+       fill: rgba(209, 175, 137, 0.5);
+       transition: all 0.5s ease-in-out;
+       -o-transition: all 0.5s ease-in-out;
+       -moz-transition: all 0.5s ease-in-out;
+       -ms-transition: all 0.5s ease-in-out;
+       -webkit-transition: all 0.5s ease-in-out;
+
+       &:hover {
+        fill: rgba(209, 175, 137, 0.9);
+       }
+   }
+}
+
+
+
+.adress , .contact , .social {
+   list-style: none;
+}
+
+
+
+.fa{
+   color:#9c9c9c;
+   margin-right: 15px;
+   font-size:14px;
+}

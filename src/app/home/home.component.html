@@ -1,0 +1,31 @@
+
+<div>
+  <div class="content-wrapper search-wrapper">  
+    <div>
+      <table class="table">
+        <tr>
+          <td>
+            <p><b>Detail Recipies</b></p>
+          </td>
+          <td class="text-right">
+            <div class="form-group">
+              <input type="text" value="search" class="form-control" [(ngModel)]="searchText" placeholder="search by country" />
+            </div>
+          </td>
+        </tr>
+      </table>  
+    </div>
+  </div>
+     
+  <div class="content-wrapper receipi">
+    <div class="row">
+      <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" *ngFor="let item of receipiData | filter:searchText">
+        <iframe height="315" [src]="item.url | customSanitization" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+        <p class="text-center">{{item.text}}</p>    
+      </div>
+    </div>
+  </div>
+  
+</div>
+
+

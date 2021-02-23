@@ -1,0 +1,44 @@
+
+.contact {
+    background-color: #000;
+    & > .row {
+        & > div {
+            letter-spacing: 1px;
+            &:first-child {
+                padding: 30px 30px;
+                color: #fff;
+                td {
+                    text-align: left;
+                    vertical-align: top;
+                    padding-bottom: 30px;
+                    &:first-child {
+                        width: 30px;
+                        padding-bottom: 15px;
+                    }
+                }
+            }
+
+            &:last-child {
+                background-color: #fff;
+            }
+        }
+    }
+}
+
+
+.table {
+    margin-bottom: 0;
+    svg {
+        width: 15px;
+        height: auto;
+        fill: #fff;
+    }
+}
+
+.table {
+    & > tr:last-child {
+        td {
+            padding-bottom: 0 !important;
+        }
+    }
+}
